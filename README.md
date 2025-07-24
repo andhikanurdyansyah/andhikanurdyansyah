@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andhika Nurdiyansyah</h1>
 <p align="center">
-  🚀 Full-Stack Developer | 🛠️ DevOps Enthusiast | 🎓 Mahasiswa TI  
+  🚀 Full-Stack Developer | 🛠️ DevOps Enthusiast | 
 </p>
 
 <p align="center">
@@ -53,4 +53,4 @@
 ### ☕ Support Me
 
 - LinkedIn: [Andhika Nurdiyansyah](https://linkedin.com/in/andhikanurdyansyah)  
-- Website/Portfolio: andhikanurdyansyah.github.io 
+- Website/Portfolio: https://andhikanurdyansyah.github.io 
