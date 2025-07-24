@@ -13,7 +13,7 @@
 ### 🔍 About Me
 
 - 🎓 Information Systems student
-- 👨‍💻 Currently working on [ePilih - Simple E-Voting System](https://vote.alertsdrop.web.id)  
+- 👨‍💻 Currently working on [ePilih - Simple E-Voting System](https://vote.epilih.me)  
 - 🌱 Learning **DevOps**, **Kubernetes**, and **AI Tools**  
 - 💬 Ask me about: Vue, Django, Docker, CI/CD, Telethon  
 - 📫 Reach me at **andhikanurdyansyah@gmail.com**
@@ -43,14 +43,7 @@
 
 ### 🤖 Telegram & Productivity
 
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/sapataulanding)
-[![wakatime](https://wakatime.com/badge/user/YOUR_ID.svg)](https://wakatime.com/@YOUR_ID)
-
----
-
-### 🎧 Now Playing on Spotify
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31mlncev6nzjkamam3mxt4na25yu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mlncev6nzjkamam3mxt4na25yu)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/sapataulanding)
 
 ---
 
