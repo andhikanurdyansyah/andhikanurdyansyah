@@ -1,77 +1,92 @@
 <h1 align="center">Hi 👋, I'm Andhika Nurdyansyah</h1>
 <p align="center">
-  🚀 Full-Stack Developer | 🛠️ DevOps Enthusiast |
+  💼 Senior Technical Consultant | 🛠️ DevOps & Cloud-Native Engineer | 🔐 Network & Security Specialist
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andhikanurdyansyah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/andhikanurdyansyah?tab=followers"><img src="https://img.shields.io/github/followers/andhikanurdyansyah?label=Followers&style=social" alt="GitHub Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=andhikanurdyansyah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/andhikanurdyansyah?tab=followers">
+    <img src="https://img.shields.io/github/followers/andhikanurdyansyah?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
-### 🔍 About Me
+## 🔍 About Me
 
-- 🎓 Information Systems student
-- 👨‍💻 Currently working on [ePilih - Simple E-Voting System](https://vote.epilih.me)  
-- 🌱 Learning **DevOps**, **Kubernetes**, and **AI Tools**  
-- 💬 Ask me about: Vue, Django, Docker, CI/CD, Telethon  
-- 📫 Reach me at **andhikanurdyansyah@gmail.com**
+I am a **Senior Technical Consultant** with hands-on experience in:
 
----
+- **DevOps Engineering**
+- **Cloud-Native Architecture (AWS, EKS)**
+- **API Gateway & IBM API Connect**
+- **Network & Security Engineering**
+- **Observability Stack (Prometheus, Grafana, Graylog)**
 
-### 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+I focus on **automation, scalability, and reliability**, helping organizations build secure, efficient, and high-performance infrastructure.
 
 ---
 
-### ☁️ DevOps & Infrastructure
+## 🧰 Tech Stack
 
+### **💻 Programming & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
+
+---
+
+### **☁️ DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible)
 
 ---
 
-### 🤖 Telegram & Productivity
-
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/sapataulanding)
+### **🛰️ API Gateway & Security**
+![IBM APIC](https://img.shields.io/badge/IBM-API_Connect-blue?style=flat)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx)
+![HAProxy](https://img.shields.io/badge/HAProxy-0E83C4?style=flat&logo=haproxy)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-### 📌 Highlighted Projects
+### **📡 Observability & Monitoring**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana)
+![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat)
+
+---
+
+## 📌 Highlighted Projects
 
 | Project | Description |
 |---------|-------------|
-| [ePilih](https://github.com/andhikanurdyansyah/ePilih) | E-Voting app built with Django + PostgreSQL + Docker |
-| [nodepay-airdrop-bot](https://github.com/andhikanurdyansyah/nodepay-airdrop-bot) | Telegram bot automation with Node.js |
-| [csvh-drill-mongo](https://github.com/andhikanurdyansyah/analisis-drill-mongo) | CSV & MongoDB join example using Apache Drill |
+| **[ePilih](https://github.com/andhikanurdyansyah/ePilih)** | A simple E-Voting system built using Django + PostgreSQL + Docker |
+| **APIC Monitoring Stack** | Observability pipeline using Prometheus, Grafana, Graylog, Node Exporter (private repo soon) |
+| **[Telegram Automation Bot](https://github.com/andhikanurdyansyah/nodepay-airdrop-bot)** | A highly-optimized Telegram automation bot using Telethon |
+| **Infra Scripts** | DevOps automations, deployment scripts, environment setup utilities |
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andhikanurdyansyah&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikanurdyansyah&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikanurdyansyah&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-### 🌐 Portfolio & Contact
+## 🌐 Portfolio & Contact
 
-- 🌍 [Portfolio Website](https://andhikanurdyansyah.github.io) 
-- 📧 Email: **andhikanurdyansyah@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/andhikanurdyansyah)
+- 🌍 Personal Website: https://andhikanurdyansyah.github.io  
+- 💼 LinkedIn: https://linkedin.com/in/andhikanurdyansyah  
+- 📧 Email: **andhikanurdyansyah@gmail.com**
 
 ---
 
-> 🚀 Powered by GitHub Actions, Vercel, and caffeine ☕
+<p align="center">🚀 Focused on Automation, Security, and Cloud-Native Engineering</p>
