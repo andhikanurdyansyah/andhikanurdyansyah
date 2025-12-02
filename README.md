@@ -85,10 +85,6 @@ I focus on **automation, scalability, and reliability**, helping organizations b
     src="https://github-readme-stats.zcy.dev/api?username=andhikanurdyansyah&show_icons=true&theme=github_dark&hide_title=false" 
     alt="GitHub Stats" 
   />
-  <img 
-    src="https://github-readme-stats.zcy.dev/api/top-langs/?username=andhikanurdyansyah&layout=compact&theme=github_dark" 
-    alt="Top Languages" 
-  />
 </p>
 
 ---
