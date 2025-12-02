@@ -75,17 +75,21 @@ I focus on **automation, scalability, and reliability**, helping organizations b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andhikanurdyansyah&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikanurdyansyah&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andhikanurdyansyah&show_icons=true&theme=github_dark&hide_title=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikanurdyansyah&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🌐 Portfolio & Contact
 
-- 🌍 Personal Website: https://andhikanurdyansyah.vercel.app 
-- 💼 LinkedIn: https://linkedin.com/in/andhikanurdyansyah  
-- 📧 Email: **andhikanurdyansyah@gmail.com**
+- 🌍 Personal Website: **https://andhikanurdyansyah.vercel.app**  
+- 💼 LinkedIn: **https://linkedin.com/in/andhikanurdyansyah**  
+- 📧 Email: **andhikanurdyansyah@gmail.com**  
+- 📱 WhatsApp: **https://wa.me/6285788883297?text=Hi%20Andhika!**  
+- 📸 Instagram: **https://www.instagram.com/andhikanurdyansyah/**  
+- 👍 Facebook: **https://www.facebook.com/andhika.nurdyansyah/**  
+- 🐦 Twitter/X: **https://x.com/andhikanurdyans**
 
 ---
 
