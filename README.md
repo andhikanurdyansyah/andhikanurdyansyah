@@ -33,6 +33,8 @@ I focus on **automation, scalability, and reliability**, helping organizations b
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat)
 
 ---
 
@@ -40,6 +42,9 @@ I focus on **automation, scalability, and reliability**, helping organizations b
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible)
@@ -58,6 +63,7 @@ I focus on **automation, scalability, and reliability**, helping organizations b
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana)
 ![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat)
+![PRTG](https://img.shields.io/badge/PRTG_Network_Monitor-009FDA?style=flat)
 
 ---
 
@@ -75,8 +81,14 @@ I focus on **automation, scalability, and reliability**, helping organizations b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andhikanurdyansyah&show_icons=true&theme=github_dark&hide_title=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikanurdyansyah&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.zcy.dev/api?username=andhikanurdyansyah&show_icons=true&theme=github_dark&hide_title=false" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.zcy.dev/api/top-langs/?username=andhikanurdyansyah&layout=compact&theme=github_dark" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
@@ -86,7 +98,7 @@ I focus on **automation, scalability, and reliability**, helping organizations b
 - 🌍 Personal Website: **https://andhikanurdyansyah.vercel.app**  
 - 💼 LinkedIn: **https://linkedin.com/in/andhikanurdyansyah**  
 - 📧 Email: **andhikanurdyansyah@gmail.com**  
-- 📱 WhatsApp: **https://wa.me/6285788883297?text=Hi%20Andhika!**  
+- 📱 WhatsApp: **https://wa.me/6285788883297?text=Hi%20Andhika!/**  
 - 📸 Instagram: **https://www.instagram.com/andhikanurdyansyah/**  
 - 👍 Facebook: **https://www.facebook.com/andhika.nurdyansyah/**  
 - 🐦 Twitter/X: **https://x.com/andhikanurdyans**
