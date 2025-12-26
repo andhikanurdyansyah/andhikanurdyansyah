@@ -109,5 +109,5 @@ I focus on **automation, scalability, and reliability**, helping organizations b
 
 ---
 
-© 2025 Andhika Nurdyansyah — GitHub: https://github.com/andhikanurdyansyah
 <p align="center">🚀 Focused on Automation, Security, and Cloud-Native Engineering</p>
+<p align="center">© 2025 Andhika Nurdyansyah — GitHub: https://github.com/andhikanurdyansyah
