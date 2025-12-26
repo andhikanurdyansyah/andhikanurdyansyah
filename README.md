@@ -1,3 +1,11 @@
+<!-- SEO Identity Block -->
+This is the official **GitHub profile of Andhika Nurdyansyah**.
+
+Andhika Nurdyansyah is a **Senior Technical Consultant** specializing in **DevOps, Cloud-Native infrastructure, API Gateway, and Security Engineering**.
+
+Official GitHub account: https://github.com/andhikanurdyansyah  
+Personal website: https://andhikanurdyansyah.vercel.app
+
 <h1 align="center">Hi 👋, I'm Andhika Nurdyansyah</h1>
 <p align="center">
   💼 Senior Technical Consultant | 🛠️ DevOps & Cloud-Native Engineer | 🔐 Network & Security Specialist
@@ -14,7 +22,7 @@
 
 ## 🔍 About Me
 
-I am a **Senior Technical Consultant** with hands-on experience in:
+My name is **Andhika Nurdyansyah**, and this GitHub profile (andhikanurdyansyah) is where I share my work, experiments, and open-source contributions related to DevOps and cloud engineering.
 
 - **DevOps Engineering**
 - **Cloud-Native Architecture (AWS, EKS)**
@@ -101,4 +109,5 @@ I focus on **automation, scalability, and reliability**, helping organizations b
 
 ---
 
+© 2025 Andhika Nurdyansyah — GitHub: https://github.com/andhikanurdyansyah
 <p align="center">🚀 Focused on Automation, Security, and Cloud-Native Engineering</p>
