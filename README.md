@@ -1,14 +1,14 @@
 <!-- SEO Identity Block -->
 This is the official **GitHub profile of Andhika Nurdyansyah**.
 
-Andhika Nurdyansyah is an **Infrastructure & Solutions Architecture Lead specializing in Enterprise Cloud Infrastructure, Secure System Design, and Scalable Platform Engineering.**.
+Andhika Nurdyansyah is an **Infrastructure & Solutions Architecture Lead specializing in Enterprise Cloud Infrastructure, Secure System Design, and Scalable Platform Engineering**.
 
 Official GitHub account: https://github.com/andhikanurdyansyah  
 Personal website: https://andhikanurdyansyah.vercel.app
 
 <h1 align="center">Hi 👋, I'm Andhika Nurdyansyah</h1>
 <p align="center">
-  💼 SInfrastructure & Solutions Architecture Lead  | 🛠️ Enterprise Cloud & Platform Engineering | 🔐 Secure & Scalable Systems
+  💼 Infrastructure & Solutions Architecture Lead  | 🛠️ Enterprise Cloud & Platform Engineering | 🔐 Secure & Scalable Systems
 </p>
 
 <p align="center">
